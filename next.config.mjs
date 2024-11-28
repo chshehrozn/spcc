@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ["media.imgcdn.org", "crackswall.zeezsoft.com"],
+    domains: ["media.imgcdn.org", "admin.iscracks.com", "spaxpc.com"],
   },
   trailingSlash: true,
   async rewrites() {

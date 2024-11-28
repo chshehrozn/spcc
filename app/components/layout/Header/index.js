@@ -28,7 +28,7 @@ function Header({ setOpenSidebar, title }) {
             <div className="flex items-center gap-3">
               <a href="/">
                 <Image
-                  src="/images/zeezfaveicon.png"
+                  src="/images/Spaxpc.png"
                   alt="Description of image"
                   width={46}
                   height={46}
